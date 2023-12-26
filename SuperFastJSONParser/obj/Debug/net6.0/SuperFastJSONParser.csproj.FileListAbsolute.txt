@@ -1,0 +1,15 @@
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\bin\Debug\net6.0\SuperFastJSONParser.exe
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\bin\Debug\net6.0\SuperFastJSONParser.deps.json
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\bin\Debug\net6.0\SuperFastJSONParser.runtimeconfig.json
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\bin\Debug\net6.0\SuperFastJSONParser.dll
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\bin\Debug\net6.0\SuperFastJSONParser.pdb
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.csproj.AssemblyReference.cache
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.AssemblyInfoInputs.cache
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.AssemblyInfo.cs
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.csproj.CoreCompileInputs.cache
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.dll
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\refint\SuperFastJSONParser.dll
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.pdb
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\SuperFastJSONParser.genruntimeconfig.cache
+C:\Users\faith.olusegun\source\repos\SuperFastJSONParser\SuperFastJSONParser\obj\Debug\net6.0\ref\SuperFastJSONParser.dll
