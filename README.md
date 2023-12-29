@@ -1,6 +1,6 @@
 # SuperfastJSONparser
 
-**A superfast JSON parser written from scratch in C#**
+**A superfast JSON parser written from scratch in C# for my subscribers on [YouTube](https://youtube.com/c/FaithOlusegun)**
 
 - Lexing for normal people
 - Parsing for normal people
