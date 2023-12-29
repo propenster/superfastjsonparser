@@ -2,9 +2,9 @@
 
 **A superfast JSON parser written from scratch in C#**
 
-- Lexing for dummies
-- Parsing for dummies
-- Reflection in C# for dummies
+- Lexing for normal people
+- Parsing for normal people
+- Reflection in C# for normal people
 - Deserialization 
 
 ## References 
